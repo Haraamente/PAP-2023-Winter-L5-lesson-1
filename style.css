@@ -64,7 +64,8 @@ main {
     /* Part 1 Exercise 9 */
     margin: auto;
     display: flex;
-    flex-wrap: wrap;
+   /
+    display: flex;
 
 }
 
